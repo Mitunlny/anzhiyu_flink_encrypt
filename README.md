@@ -1,5 +1,5 @@
 # anzhiyu_flink_encrypt
-一个简单的友链加密功能
+基于anzhiyu主题实现的一个简单的友链加密功能
 
 效果图：
 ![](./pic.png)
